@@ -30,4 +30,6 @@ TextV4 = "Fourth message here"
 - **Author**: @Edison
 - **Creation Date**: July 19, 2022
 
-*Disclaimer: Automation scripts violate Growtopia's Terms of Service. Use at your own risk.*
+## Disclaimer
+
+Note that botting scripts violate Growtopia's Terms of Service and might result in a ban. Use at your own risk.
